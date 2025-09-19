@@ -38,6 +38,8 @@ Ejecutar en terminal:
 ```bash
 python main.py
 
+---
+
 ## 📝 Uso rápido
 - **Agregar artículo:** llenar título, autor(es), año y seleccionar archivo `.txt`. Presionar **Guardar artículo**.  
 - **Editar artículo:** clic en **Editar artículo**, ingresar hash, modificar autor(es) y/o año.  
