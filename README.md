@@ -37,7 +37,7 @@ Ejecutar en terminal:
 
 ```bash
 python main.py
-
+```
 ---
 
 ## 📝 Uso rápido
